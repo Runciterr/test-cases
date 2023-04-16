@@ -5,7 +5,7 @@
 <kbd>![](images/test-case_2.jpg)</kbd>
 
 #### Тест-кейс 3
-<kbd>![](images/test-case_3.jpg)</kbd>
+<kbd>![](images/test-case_3.JPG)</kbd>
 
 #### Тест-кейс 4
-<kbd>![](images/test-case_4.jpg)</kbd>
+<kbd>![](images/test-case_4.JPG)</kbd>
